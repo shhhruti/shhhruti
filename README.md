@@ -1,13 +1,14 @@
-[![MasterHead](https://videoplasty.com/stock-animation/midnight-coding-late-night-session-lofi-animation-28139)](https://shhhruti.io)
 <h1 align="center">Hi 👋, I'm Shruti Paulastye</h1>
 <h3 align="center">A passionate software engineering student from IIIT SURAT</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/coding-girl-animation-fe7t4gejurmtof8v.html">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhhruti&label=Profile%20views&color=0e75b6&style=flat" alt="shhhruti" /> </p>
 
-- 🔭 I’m currently working on **VizExperts**
+- 🔭 I’m currently working on **Full Stack Projects**
 
 - 🌱 I’m currently learning **Data Science, Android**
+
+- 📫 How to reach me **shrutipaulastye@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shhhruti&show_icons=true&locale=en" alt="shhhruti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shhhruti&" alt="shhhruti" /></p>
+
