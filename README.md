@@ -1,5 +1,4 @@
-
-![gif](https://github.com/user-attachments/assets/8b5787c5-28b6-40d5-8dc2-67c71d49c2f7)
+![514f3fccb71047d780be491c435a79e1](https://github.com/user-attachments/assets/b3703244-4051-4d78-810e-f76609bd413d)
 
 # Hi, I'm Shruti Paulastye
 
