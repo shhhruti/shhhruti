@@ -1,3 +1,6 @@
+
+![gif](https://github.com/user-attachments/assets/8b5787c5-28b6-40d5-8dc2-67c71d49c2f7)
+
 # Hi, I'm Shruti Paulastye
 
 Hi there! I'm Shruti Paulastye
